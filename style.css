@@ -1,0 +1,92 @@
+*{
+  margin: 0;
+}
+
+.banner{
+  
+ background-image: url('images/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+ }
+.banner-header{
+  padding-top: 200px;
+  text-align: right;
+  font-size: 65px;
+  line-height: 76px;
+  top: 216px;
+  right: 230px;
+  left: 845px;
+  height: 228px;
+  width: 525px;
+}
+.banner-description{
+  width: 494px;
+  height: 78px;
+  line-height: 26px;
+  text-align: right;
+  size: 16px;
+  right: 230px;
+  
+}
+
+.button-primary{
+  border-color: #F15B22;
+  width: 160px;
+  height: 64px;
+  left: 230px;
+  right: 1210px;
+  top: 578px;
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: #F15B22;
+  margin-bottom: 166px;
+}
+
+/* about section */
+.about-me{
+  display: flex;
+}
+.my-picture{
+  margin-top: 130px;
+}
+
+.about-me-tittle{
+  width: 288px;
+  height: 94px;
+  font-weight: 700px;
+  font-size: 40px;
+  margin-top: 370px;
+  line-height: 47px;
+  right: 322px;
+  left: 862px;
+  color: #151414;
+  margin-top: 370px;
+
+}
+
+.about-me-description{
+  padding-top: 24px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  left: 862px;
+  right: 322px;
+  height: 104px;
+}
+.about-me-point{
+Width: 349px;
+Height: 162px;
+Left: 862px;
+right: 390px;
+left: 862px;
+top: 16px;
+
+}
+/* working plan */
+.plan-tittle{
+  font-size: 40px;
+  font-weight: 700px;
+  line-height: 47px;
+  margin-top: 130px;
+  text-align: center;
+}
